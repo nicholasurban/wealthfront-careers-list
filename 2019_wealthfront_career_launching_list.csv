@@ -1,0 +1,157 @@
+,company_name,description,letter,location,url
+0,23andMe,DNA testing service,#,"Mountain View, CA",https://www.23andme.com/
+1,Act-On Software,Cloud-based integrated marketing platform,A,"Portland, OR",https://www.act-on.com/
+2,Affirm,Consumer installment loans,A,"San Francisco, CA",https://affirm.com/
+3,Algolia,Search-as-a-service solution,A,"San Francisco, CA",https://www.algolia.com/
+4,Amplitude,Product analytics software for web and mobile,A,"San Francisco, CA",https://amplitude.com/
+5,Andela,High-performing distributed engineering teams with African talent,A,"New York, NY",https://andela.com/
+6,Apartment List,Apartment rental marketplace,A,"San Francisco, CA",https://www.apartmentlist.com/
+7,App Annie,Business intelligence solutions,A,"San Francisco, CA",http://www.appannie.com/
+8,Arctic Wolf Networks,Managed firebreak detection & response security service,A,"Sunnyvale, CA",https://arcticwolf.com/
+9,Asana,Work-management software for teams,A,"San Francisco, CA",https://asana.com/
+10,Avetta,Cloud-based supply chain risk management platform,A,"Orem, UT",https://www.avetta.com
+11,AVI Networks,Intent-based application services,A,"Santa Clara, CA",https://www.avinetworks.com
+12,AxiomSL,Risk data management and regulatory reporting solutions,A,"New York, NY",https://www.axiomsl.com/
+13,BetterCloud,SaaS operations management platform,B,"New York, NY",https://www.bettercloud.com
+14,Big Switch Networks,SDN white box switching,B,"Santa Clara, CA",https://www.bigswitch.com
+15,Blend ,White-label consumer lending ecosystem,B,"San Francisco, CA",https://blend.com/
+16,Blue Jeans Network,Video conferencing services,B,"Mountain View, CA",https://www.bluejeans.com/
+17,Bustle Digital Group,"News, entertainment, lifestyle & fashion website",B,"New York, NY",https://www.bustle.com/
+18,Buzzfeed,Social news and entertainment,B,"New York, NY",https://www.buzzfeed.com
+19,Carbon (formerly Carbon 3D),3D manufacturing,C,"Redwood City, CA",https://www.carbon3d.com/
+20,Carta,Cap table management & compliance,C,"Palo Alto, CA",https://carta.com/
+21,Chartboost,In-app monetization and programmatic advertising platform,C,"San Francisco, CA",https://www.chartboost.com
+22,Checkr,Professional background checks,C,"San Francisco, CA",https://www.checkr.com/
+23,CloudBees,Continuous deployment software,C,"San Jose, CA",https://www.cloudbees.com
+24,Cloudflare,"CDN, DNS, DDoS protection and security",C,"San Francisco, CA",https://www.cloudflare.com
+25,Clover Health,Health insurance ,C,"San Francisco, CA",https://www.cloverhealth.com/en/
+26,Code42 ,"Data loss protection, visibility, and recovery solutions",C,"Minneapolis, MN",https://www.code42.com
+27,Collibra,Data governance,C,"New York, NY",https://www.collibra.com
+28,CommonBond,Online education lending platform,C,"New York, NY",https://www.commonbond.co/
+29,Confluent,Streaming platform based on Apache Kafka,C,"Palo Alto, CA",https://www.confluent.io/
+30,Convoy,Trucking services powered by technology,C,"Seattle, WA",https://convoy.com/
+31,Couchbase,NoSQL database,C,"Santa Clara, CA",https://www.couchbase.com
+32,Cradlepoint,"Connects people, places, and things over broadband",C,"Boise, ID",https://cradlepoint.com/
+33,CrowdStrike,Threat analysis and prevention,C,"Sunnyvale, CA",https://www.crowdstrike.com
+34,Cumulus Networks,Linux operating systems for networking hardware,C,"Mountain View, CA",https://cumulusnetworks.com/
+35,Cybereason,Endpoint detection and response platform,C,"Boston, MA",https://www.cybereason.com/
+36,Databricks,Unified analytics platform based on Spark,D,"San Francisco, CA",https://databricks.com/
+37,Datadog,Monitoring of cloud services,D,"New York, NY",https://www.datadoghq.com/
+38,DataStax,Data management for cloud applications.,D,"Santa Clara, CA",https://www.datastax.com/
+39,Deem,Commerce-as-a-Service ,D,"San Francisco, CA",https://www.deem.com
+40,Demisto,Collaborative and automated security operations platform,D,"Cupertino, CA",https://www.demisto.com/
+41,Dia&Co,Plus-sized women's clothing and accessories,D,"New York, NY",https://www.dia.com
+42,Dialpad,Unified communications services,D,"San Francisco, CA",https://www.dialpad.com
+43,DigitalOcean,Cloud hosting service for developers,D,"New York, NY",https://www.digitalocean.com/
+44,Docker,"Open platform to build, ship & run distributed applications",D,"San Francisco, CA",https://www.docker.com
+45,Drawbridge,Anonymous cross-device communication platform,D,"San Mateo, CA",https://www.drawbridge.com
+46,Earnin,Access to your pay whenever you need it,E,"Palo Alto, CA",https://www.earnin.com
+47,Elementum,Software to make supply chains simple,E,"Mountain View, CA",https://www.elementum.com
+48,Everlane,Online vendor of luxury clothing,E,"San Francisco, CA",https://www.everlane.com
+49,ExtraHop Networks ,Real-time operational intelligence ,E,"Seattle, WA",https://www.extrahop.com
+50,Farmers Business Network,Network that connects farmers to share knowledge,F,"San Carlos, CA",https://www.fbn.com/
+51,FinancialForce,Back-office applications for Salesforce CRM,F,"San Francisco, CA",https://www.financialforce.com
+52,Flywire,Service for complex payment problems,F,"Boston, MA",https://www.flywire.com
+53,ForgeRock,Open source identity management solutions,F,"San Francisco, CA",https://www.forgerock.com
+54,Freshworks,Cloud-based customer support software ,F,"San Francisco, CA",https://www.freshworks.com/
+55,Fundbox,Financial factoring services,F,"San Francisco, CA",https://fundbox.com/
+56,Fuze,Unified communications services,F,"Boston, MA",https://www.fuze.com/
+57,GOAT ,Sneaker marketplace,G,"Culver City, CA",https://www.goat.com/
+58,Grammarly,Online digital writing assistant,G,"San Francisco, CA",https://www.grammarly.com
+59,Grand Rounds,Health outcomes management platform,G,"San Francisco, CA",https://www.grandrounds.com
+60,Greenhouse,Recruiting optimization platform,G,"New York, NY",http://www.greenhouse.io/
+61,Gusto,Small company payroll & benefits,G,"San Francisco, CA",https://www.gusto.com/
+62,HackerOne,Vulnerability coordination and bug bounty platform,H,"San Francisco, CA",https://www.hackerone.com/
+63,Health Catalyst,Organizes health-related data ,H,"Salt Lake City, UT",https://www.healthcatalyst.com/
+64,Health IQ,Insurance for the health conscious,H,"Mountain View, CA",https://www.healthiq.com/
+65,HireVue,Recruiting productivity software,H,"South Jordan, UT",https://www.hirevue.com
+66,Hootsuite,Platform for managing social media,H,"Vancouver, Canada",https://hootsuite.com/
+67,HotelTonight,Mobile hotel booking application that allows same-day reservations,H,"San Francisco, CA",https://www.hoteltonight.com
+68,Hudl,Sports video analysis and coaching tools,H,"Lincoln, NE",https://www.hudl.com
+69,Ibotta,Tools to encourage consumers to learn about their favorite brands,I,"Denver, CO",http://ibotta.com/
+70,IEX Group,Transparent securities exchange,I,"New York, NY",https://iextrading.com/
+71,Illumio,Cloud security company that applies adaptive segmentation,I,"Sunnyvale, CA",https://www.illumio.com
+72,InsideSales.com,Sales acceleration platform ,I,"Provo, UT",https://www.insidesales.com/
+73,Instacart,Grocery delivery service,I,"San Francisco, CA",https://www.instacart.com
+74,Intercom,Customer communication platform ,I,"San Francisco, CA",https://www.intercom.com
+75,InVision,Design collaboration platform,I,"New York, NY",https://www.invisionapp.com/
+76,Ionic Security ,Data security platform,I,"Atlanta, GA",https://www.ionic.com/
+77,ipsy,Beauty products sampling service,I,"San Mateo, CA",https://www.ipsy.com
+78,IQMS,Enterprise resource planning software,I,"Pasa Robles, CA",https://www.iqms.com
+79,Jana,App discovery service,J,"Boston, MA",https://www.jana.com/home
+80,Justworks,"Payroll, benefits & compliance for SMBs",J,"New York, NY",https://www.justworks.com
+81,Lattice Engines,Marketing and sales prediction ,L,"San Mateo, CA",https://www.lattice-engines.com
+82,Leanplum,Mobile marketing platform,L,"San Francisco, CA",https://www.leanplum.com/
+83,LendingHome,Mortgage lender,L,"San Francisco, CA",https://www.lendinghome.com/
+84,Lever,Talent acquisition management system,L,"San Francisco, CA",https://www.lever.co/
+85,Looker,Business intelligence software,L,"Santa Cruz, CA",http://looker.com/
+86,Medallia,SaaS that captures customer feedback ,M,"San Mateo, CA",http://www.medallia.com/
+87,Minted,Graphic design crowdsourcing,M,"San Francisco, CA",http://www.minted.com/
+88,N3TWORK,Mobile games creator and publisher,N,"San Francisco, CA",http://n3twork.com/
+89,Namely,"HR, payroll, and benefits platform",N,"New York, NY",https://www.namely.com/
+90,Narvar,Customer experience platform for retailers,N,"San Francisco, CA",http://www.narvar.com/
+91,NerdWallet,Personal finance content site,N,"San Francisco, CA",https://www.nerdwallet.com
+92,Netskope,Cloud access security broker ,N,"Los Altos, CA",https://www.netskope.com/
+93,Nextdoor,Neighborhood based social network,N,"San Francisco, CA",http://nextdoor.com/
+94,OfferUp,A mobile-driven local marketplace,O,"Bellevue, WA",https://offerupnow.com/
+95,One Medical  ,Technology platform offering an array of concierge medical services,O,"San Francisco, CA",http://www.onemedical.com/
+96,OneSource Virtual,Workday services,O,"Irving, TX",http://www.onesourcevirtual.com/
+97,Opendoor,Online home-selling service,O,"San Francisco, CA",https://www.opendoor.com/
+98,PagerDuty,Operations performance platform,P,"San Francisco, CA",http://www.pagerduty.com/
+99,Panzura,Cloud data storage system,P,"Campbell, CA",http://www.panzura.com/
+100,Payoneer,Cross-border payment platform,P,"New York, NY",http://www.payoneer.com/
+101,Pendo,Product cloud creator for digital products and data-driven product teams,P,"Raleigh, NC",http://www.pendo.io/
+102,Pindrop,Voice security and authentication.,P,"Atlanta, GA",http://pindrop.com/
+103,Plaid,Financial services API,P,"San Francisco, CA",https://plaid.com/
+104,PlanGrid,Cloud-based app to store blueprints and construction documents,P,"San Francisco, CA",http://www.plangrid.com/
+105,Podium,Customer communication platform,P,"Lehi, UT",https://www.podium.com/
+106,Pond5,Hub to buy and sell media,P,"New York, NY",https://www.pond5.com/
+107,POPSUGAR,"Network of websites with trends in entertainment, fashion, parenting, fitness and shopping.",P,"San Francisco, CA",http://www.popsugar.com/
+108,Postmates,Urban delivery service,P,"San Francisco, CA",https://postmates.com/
+109,Procore Technologies,Cloud-based construction management software,P,"Carpenteria, CA",http://www.procore.com/
+110,"Prodege, LLC",Rewards programs,P,"El Segundo, CA",http://www.prodege.com/
+111,Quora,Q&A platform,Q,"Mountain View, CA",http://quora.com/
+112,Rent the Runway,Designer dress and accessory rentals,R,"New York, NY",http://www.renttherunway.com/
+113,Reputation.com,"Track and improve online reviews, social media, and local search visibility for businesses",R,"Redwood City, CA",http://www.reputation.com/
+114,Robinhood,Free stock trading app,R,"Menlo Park, CA",https://www.robinhood.com/
+115,Root Insurance,Mobile-first insurance carrier,R,"Columbus, OH",https://joinroot.com/
+116,Rover,Network of pet sitters and dog walkers,R,"Seattle, WA",http://www.rover.com/
+117,Rubrik,Live data access for recovery and application development,R,"Palo Alto, CA",http://rubrik.com/
+118,Salsify,Product experience management,S,"Boston, MA",http://salsify.com/
+119,Samsara,Cloud based sensor systems,S,"San Francisco, CA",http://www.samsara.com/
+120,Scale,Annotation of training data for AI,S,"San Francisco, CA",https://scale.ai/
+121,SeatGeek,Event ticket marketplace,S,"New York, NY",https://seatgeek.com/
+122,Segment,Customer data infrastructure,S,"San Francisco, CA",http://segment.com/
+123,ServiceChannel ,"Platform to procure, manage and pay for facility maintenance services",S,"Pleasanton, CA",https://servicechannel.info/
+124,Shape Security,Advanced Application Cyber-Defense,S,"Mountain View, CA",https://www.shapesecurity.com/
+125,Signal Sciences,Security attack prevention,S,"Culver City, CA",https://www.signalsciences.com/
+126,SignalFx,Real-time cloud monitoring platform for infrastructure,S,"San Mateo, CA",http://signalfx.com/
+127,Silver Peak Systems,Software defined WAN devices,S,"Santa Clara, CA",https://www.silver-peak.com/
+128,SimpliSafe ,Wireless home security system,S,"Boston, MA",http://simplisafe.com/
+129,Sonatype,Open source components,S,"Fulton, MD",http://sonatype.com/
+130,Sonder,A tech-driven hospitality company ,S,"San Francisco, CA",https://www.sonder.com
+131,Squarespace,"Website builder, blogging platform and hosting service",S,"New York, NY",http://www.squarespace.com/
+132,Strava ,Global community of athletes,S,"San Francisco, CA",http://www.strava.com/
+133,Sumo Logic,"Transforms big data into sources of operations, security and compliance intelligence",S,"Redwood City, CA",http://www.sumologic.com/
+134,Synack,Scalable continuous testing for enterprise applications and networks,S,"Redwood City, CA",http://www.synack.com/
+135,Tanium,Security and systems management,T,"Berkeley, CA",http://www.tanium.com/
+136,Tastemade,Online food oriented destination,T,"Santa Monica, CA",http://www.tastemade.com/
+137,Tastyworks,Stock trading platform,T,"Chicago, IL",https://tastyworks.com/
+138,ThoughtSpot,Relational search engine designed for data analytics,T,"Palo Alto, CA",http://www.thoughtspot.com/
+139,thredUp,Fashion resale website,T,"San Francisco, CA",http://www.thredup.com/
+140,Thumbtack,Online marketplace for home-related services,T,"San Francisco, CA",https://www.thumbtack.com/
+141,TripActions,Corporate travel management,T,"Palo Alto, CA",http://tripactions.com/
+142,Turo,Car sharing rental marketplace,T,"San Francisco, CA",https://turo.com/
+143,UiPath,Robotic process automation software,U,"New York, NY",http://www.uipath.com/
+144,Upgrade,Consumer credit platform,U,"San Francisco, CA",http://www.upgrade.com/
+145,Varsity Tutors,Platform that connects students with personalized instruction,V,"San Francisco, CA",http://www.varsitytutors.com/
+146,Vox Media,Digital media company,V,"Washington, DC",http://www.voxmedia.com/
+147,VSCO,Photography apps and tools,V,"Oakland, CA",http://vsco.co/
+148,Warby Parker,Eyeglass retailer,W,"New York, NY",http://www.warbyparker.com/
+149,Wealthfront,Automated financial advisor,W,"Redwood City, CA",https://www.wealthfront.com/
+150,Wish,Mobile commerce platform,W,"San Francisco, CA",http://wish.com/
+151,WordPress,Open-source CMS & blog software,W,"Houston, TX",https://wordpress.com/
+152,XebiaLabs,Continuous delivery and DevOps software,X,"Boston, MA",https://xebialabs.com/
+153,YapStone,Electronic payments for online marketplaces,Y,"Walnut Creek, CA",http://www.yapstone.com/
+154,Zola,Wedding registry service,Z,"New York, NY",http://www.zola.com/
+155,Zoom ,Enterprise video communications,Z,"San Jose, CA",https://zoom.us/
